@@ -9,7 +9,7 @@ Para asegurar el correcto funcionamiento de la evaluación, sigue estos pasos de
      ```
    - Si ocurre algún error, estas son las dependencias que contiene la evaluación:
 
-     ![Dependencias](img/Dependencias.png)
+     ![Dependencias](img/Dependencias.PNG)
 
      ```
      npm install @nestjs/common@^10.0.0 @nestjs/core@^10.0.0 @nestjs/mongoose@^10.0.4 @nestjs/platform-express@^10.0.0 bson@^6.4.0 mongoose@^8.2.0 reflect-metadata@^0.2.0 rxjs@^7.8.1
@@ -21,11 +21,11 @@ Para asegurar el correcto funcionamiento de la evaluación, sigue estos pasos de
      mongodb+srv://rich4rd16:ESPE178059@cluster0.ziisd1n.mongodb.net/ecommerce
      ```
 
-      ![Url Mongo](img/Url_MongoDB.png)
+      ![Url Mongo](img/Url_MongoDB.PNG)
 
-      ![Mongo](img/MongoDB1.png)
+      ![Mongo](img/MongoDB1.PNG)
 
-      ![Mongo](img/MongoDB.png)
+      ![Mongo](img/MongoDB.PNG)
 
 3. **Inicio del Proyecto:**
    - Ejecuta la siguiente línea de comando para iniciar el proyecto de evaluación:
