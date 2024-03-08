@@ -32,7 +32,7 @@ Para asegurar el correcto funcionamiento de la evaluación, sigue estos pasos de
      ```
      npm start
      ```
-      ![Mongo](img/npm_start.png)
+      ![Mongo](img/npm_start.PNG)
 4. **Operaciones CRUD en Cursos y Temas:**
    
    - **Cursos:**
