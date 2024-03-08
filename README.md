@@ -46,7 +46,7 @@ Para asegurar el correcto funcionamiento de la evaluación, sigue estos pasos de
          }
          ```
         - Visualización en ThunderClient
-         ![Dependencias](img/Post_Cursos.png)
+         ![Dependencias](img/Post_Cursos.PNG)
 
         - Visualización en la base de datos MongoDB (Se va a la colección cursos).
           
